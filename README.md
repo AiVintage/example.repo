@@ -8,8 +8,6 @@ A simple Python script that performs basic arithmetic and financial calculations
 - [Features](#features)
 - [Usage](#usage)
 - [Installation](#installation)
-- [Files Included](#files-included)
-- [License](#license)
 
 ---
 
